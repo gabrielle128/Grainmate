@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>updateIcon.png</file>
+    <file>home.png</file>
+    <file>previous.png</file>
+    <file>ricemate.png</file>
+    <file>Dinorado.png</file>
+  </qresource>
+</RCC>
